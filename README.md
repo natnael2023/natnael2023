@@ -12,16 +12,15 @@
 - 💻 I’m currently working on a **Pharmacy Management System** using React, Tailwind, and MongoDB  
 - 🌱 Learning and building with **Odoo**, **Next.js**, and **full-stack tools**
 - 🧠 Exploring AI, APIs, and interactive web platforms
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) | [Telegram](https://t.me/YOUR-TELEGRAM)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/natnael-yonas) | [Email](yonasnatnael122@gmail.com)  
 - 🧳 I’m looking for **remote opportunities or internships** in web or ERP development  
 
 ---
 
 ### 🛠️ Tech Stack
 
-```javascript
 Languages:   JavaScript, HTML, CSS , python 
-Frontend:    React.js, Tailwind CSS, Next.js  
+Frontend:    React.js, Tailwind CSS  
 Backend:     Node.js, Express.js  
 Database:    MongoDB  
 Tools:       Git, GitHub, Cloudinary, Multer, Prisma
@@ -44,6 +43,8 @@ Tools:       Git, GitHub, Cloudinary, Multer, Prisma
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=natnael123&theme=tokyonight" alt="natnael streak stats" />
 </p>
 
+---
+
 ## 🔗 Connect With Me
 
 <p align="center">
@@ -52,8 +53,5 @@ Tools:       Git, GitHub, Cloudinary, Multer, Prisma
   </a>
   <a href="mailto:yonasnatnael122@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://t.me/nattydev" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white">
   </a>
 </p>
