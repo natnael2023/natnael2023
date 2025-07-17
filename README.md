@@ -29,19 +29,9 @@ Tools:       Git, GitHub, Cloudinary, Multer, Prisma
 
 ###🚀 Projects I'm Proud Of
 
-🎯 MyLinkSpace — Personal landing page builder
-📘 LMS Platform — Learning platform with student/instructor dashboards
-🧪 Pharmacy Management System — Inventory and sales management system
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natnael123&show_icons=true&theme=tokyonight" alt="natnael github stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natnael123&theme=tokyonight" alt="natnael streak stats" />
-</p>
+-🎯 MyLinkSpace — Personal landing page builder
+-📘 LMS Platform — Learning platform with student/instructor dashboards
+-🧪 Pharmacy Management System — Inventory and sales management system
 
 ---
 
