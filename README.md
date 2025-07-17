@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Natnael</h1>
+<h3 align="center">A passionate Full-Stack Developer from Ethiopia 🇪🇹</h3>
 
-<!--
-**natnael2023/natnael2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Software Engineering Graduate | 🌍 Tech Enthusiast | 💡 Problem Solver
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 💻 I’m currently working on a **Pharmacy Management System** using React, Tailwind, and MongoDB  
+- 🌱 Learning and building with **Odoo**, **Next.js**, and **full-stack tools**
+- 🧠 Exploring AI, APIs, and interactive web platforms
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) | [Telegram](https://t.me/YOUR-TELEGRAM)  
+- 🧳 I’m looking for **remote opportunities or internships** in web or ERP development  
+
+---
+
+### 🛠️ Tech Stack
+
+```javascript
+Languages:   JavaScript, HTML, CSS , python 
+Frontend:    React.js, Tailwind CSS, Next.js  
+Backend:     Node.js, Express.js  
+Database:    MongoDB  
+Tools:       Git, GitHub, Cloudinary, Multer, Prisma
+
+---
+
+###🚀 Projects I'm Proud Of
+
+🎯 MyLinkSpace — Personal landing page builder
+📘 LMS Platform — Learning platform with student/instructor dashboards
+🧪 Pharmacy Management System — Inventory and sales management system
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=natnael123&show_icons=true&theme=tokyonight" alt="natnael github stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natnael123&theme=tokyonight" alt="natnael streak stats" />
+</p>
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/natnael-yonas" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:yonasnatnael122@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://t.me/nattydev" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white">
+  </a>
+</p>
