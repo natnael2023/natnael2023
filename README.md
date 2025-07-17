@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-Languages:   JavaScript, HTML, CSS , python 
+Languages:   JavaScript, HTML, CSS , python  
 Frontend:    React.js, Tailwind CSS  
 Backend:     Node.js, Express.js  
 Database:    MongoDB  
